@@ -1,8 +1,7 @@
 # Sentiment-Analysis
-# Sentiment Analysis using [Model Name]
 
 ## Overview
-This project performs sentiment analysis using ...
+This project performs sentiment analysis using:
 
 ## Technologies
 - Python
